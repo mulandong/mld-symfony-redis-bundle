@@ -1,0 +1,11 @@
+{
+    "name": "mulandong/mld-symfony-redis-bundle",
+    "description": "redis bundle for symfony",
+    "authors": [
+        {
+            "name": "mulandong",
+            "email": "mulan_dong@163.com"
+        }
+    ],
+    "require": {}
+}
